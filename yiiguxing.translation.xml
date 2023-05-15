@@ -1,0 +1,44 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1683187159659" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAIJSwUuaGEbJhU" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="452" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="batch" />
+      <item value="move" />
+      <item value="移动" />
+      <item value="软链接" />
+      <item value="hard link" />
+      <item value="硬链接" />
+      <item value="distinguish" />
+      <item value="识别" />
+      <item value="incorrect" />
+      <item value="violation" />
+      <item value="Exist" />
+      <item value="available" />
+      <item value="monitor" />
+      <item value="produce" />
+      <item value="exists" />
+      <item value="mnt chain config" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
+      </map>
+    </option>
+  </component>
+</application>
